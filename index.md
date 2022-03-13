@@ -3,18 +3,25 @@
 
 
 2. kết nối cổng HDMI với Onn android TV xong mở lên
+<p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/mY5xH_BeMz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 3. anh cài đặt 1 lúc vì mở thiết bị lần đầu như điện thoại mới
 4. Tải **Downloader** ở trên **Play Store**
-[![1](https://img.youtube.com/vi/mY5xH_BeMz8/0.jpg)](https://www.youtube.com/watch?v=mY5xH_BeMz8)
-5. vào downloader rồi tải app bằng cách nhập link: **[kutt.it/stn_stable](http://kutt.it/stn_stable?fbclid=IwAR3UQkEy4A-iYrQS3AMaG7JTYlAzdI3bfqrl-XSUs6iP8t67Tp6hnTupP68)**
-![attachments/3.mp4](attachments/3.mp4)
-![attachments/4.mp4]
-6. Cài app: bước này anh cần bật **Install from unknown source** rồi mới cài được
-![attachments/5.mp4]
-7. mỗi lần anh muốn xem thì chỉ cần đổi **input** của TV rồi mở app Smart tube lên thôi
-![attachments/6.mp4]
 
-Chúc anh thành công, nếu có lỗi gì hoặc anh stuck ở bước nào thì text em 
-<p align="center"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mY5xH_BeMz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/VT_lS-S4xaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+5. vào downloader rồi tải app bằng cách nhập link: **[kutt.it/stn_stable](http://kutt.it/stn_stable?fbclid=IwAR3UQkEy4A-iYrQS3AMaG7JTYlAzdI3bfqrl-XSUs6iP8t67Tp6hnTupP68)**
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8-w7AtYSMUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_MfQ4ovYmeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+6. Cài app: bước này anh cần bật **Install from unknown source** rồi mới cài được
+<p align="center"> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QCPw0WVBgj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+7. mỗi lần anh muốn xem thì chỉ cần đổi **input** của TV rồi mở app Smart tube lên thôi
+<p align="center"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VTj4yPq25J4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+Nếu có lỗi gì hoặc anh ko hiểu ở bước nào thì anh text em 
