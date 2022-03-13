@@ -7,7 +7,7 @@
 4. Tải **Downloader** ở trên **Play Store**
 https://media.githubusercontent.com/media/taikhoandangnhap/dmsdnsndskd/main/attachments/1.mp4
 5. vào downloader rồi tải app bằng cách nhập link: **[kutt.it/stn_stable](http://kutt.it/stn_stable?fbclid=IwAR3UQkEy4A-iYrQS3AMaG7JTYlAzdI3bfqrl-XSUs6iP8t67Tp6hnTupP68)**
-![attachments/3.mp4]
+![attachments/3.mp4](attachments/3.mp4)
 ![attachments/4.mp4]
 6. Cài app: bước này anh cần bật **Install from unknown source** rồi mới cài được
 ![attachments/5.mp4]
