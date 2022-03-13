@@ -1,5 +1,6 @@
 # bỏ quảng cáo youtube TV bằng Onn android tv
-### Anh đến Walmart mua cái này [https://www.walmart.com/ip/onn-Android-TV-UHD-Streaming-Device/636597403](https://www.walmart.com/ip/onn-Android-TV-UHD-Streaming-Device/636597403?fbclid=IwAR2YvVLuBcGoLKH_18FTMnmE9JuYDaKFOjjTERInEWvqDFBINKxSZ6bcmFE)
+### Anh đến Walmart mua cái này
+[https://www.walmart.com/ip/onn-Android-TV-UHD-Streaming-Device/636597403](https://www.walmart.com/ip/onn-Android-TV-UHD-Streaming-Device/636597403?fbclid=IwAR2YvVLuBcGoLKH_18FTMnmE9JuYDaKFOjjTERInEWvqDFBINKxSZ6bcmFE)
 
 
 ### kết nối cổng HDMI với Onn android TV xong mở lên
